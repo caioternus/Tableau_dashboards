@@ -1,5 +1,5 @@
 # Tableau_dashboards
-Tableau dashboards for data analysis and visualization
+Tableau dashboards for data analysis and visualization using public datasets (personal learning projects)
 
 1) King County, Washington House Sales Dashboard
 ![KingCountyHouseSales (april 2015)](https://github.com/user-attachments/assets/088c9acf-d798-4881-b061-5f49a753780e)
